@@ -1,0 +1,16 @@
+{
+    "name": "user/shape",
+    "description": "Konsep PSR-4 Autoloading",
+    "authors": [
+        {
+            "name": "rezaandika142",
+            "email": "70564413+rezaandika142@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
